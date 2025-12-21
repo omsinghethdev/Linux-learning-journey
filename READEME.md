@@ -10,4 +10,7 @@ This repository documents my daily Linux learning progress.
 - Learned absolute vs relative paths
 ### Day 01 – File Management
 - Practiced basic file commands
+### Day 02 -User Management
+- learned about system account ,regular user ,super user(root ).
+ 
 
