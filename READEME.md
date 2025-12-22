@@ -13,5 +13,5 @@ This repository documents my daily Linux learning progress.
 ### Day 02 -User Management
 - learned about system account ,regular user ,super user(root ).
 ### Day 03 -Elevating previleges with 'sudo'
--learned how 'sudo' elevates the previlege of a regular user to do administrative tasks and who it can be dangerous for us using sudo without full knowledge of it. 
+- learned how 'sudo' elevates the previlege of a regular user to do administrative tasks and who it can be dangerous for us using sudo without full knowledge of it. 
 
