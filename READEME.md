@@ -14,4 +14,6 @@ This repository documents my daily Linux learning progress.
 - learned about system account ,regular user ,super user(root ).
 ### Day 03 -Elevating previleges with 'sudo'
 - learned how 'sudo' elevates the previlege of a regular user to do administrative tasks and who it can be dangerous for us using sudo without full knowledge of it. 
-
+### Day 04 -Revision of relative and absolute path
+-cleared the difference between absolute and relative path
+-cd .. ,/home/username/Download ,cd Download.
