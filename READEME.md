@@ -17,3 +17,7 @@ This repository documents my daily Linux learning progress.
 ### Day 04 -Revision of relative and absolute path
 -cleared the difference between absolute and relative path
 -cd .. ,/home/username/Download ,cd Download.
+### Day 05 -Package Management
+-keeping your system uptodated
+-install/removing softwares 
+
