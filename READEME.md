@@ -20,4 +20,9 @@ This repository documents my daily Linux learning progress.
 ### Day 05 -Package Management
 -keeping your system uptodated
 -install/removing softwares 
+### Day 06 -Organise file and directories
+-making file and directories
+-copy moving and renaming files 
+-deleting file and folders
 
+-
