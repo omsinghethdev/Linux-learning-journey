@@ -26,3 +26,9 @@ This repository documents my daily Linux learning progress.
 -deleting file and folders
 
 -
+###Day07 -Working with txt file
+Commands 
+-cat ,less ,wc ,wc -lwc,du -s filename,head -n (no of lines) filename,tail -n (no of lines) filename
+Using txt file editors
+-nano ,vim
+
