@@ -19,6 +19,8 @@ This repository documents my daily Linux learning progress.
 -cd .. ,/home/username/Download ,cd Download.
 ### Day 05 -Package Management
 -keeping your system uptodated
+### Day 06 -revision day
+-- reviseed old commands like ls ,cp, mv
 -install/removing softwares 
 ### Day 06 -Organise file and directories
 -making file and directories
