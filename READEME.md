@@ -34,3 +34,9 @@ Commands
 Using txt file editors
 -nano ,vim
 
+###Day08 -Revision day
+###Day-09-Redirection-managing-data-streams
+stdin
+stdout
+stderr
+
