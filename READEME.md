@@ -40,3 +40,14 @@ stdin
 stdout
 stderr
 
+###Day-10-pipes-data-processing-through-command-chaining
+|:pipr
+some commonly used tool :
+tee
+sort
+uniq
+grep
+tr
+rev
+cut
+sed
