@@ -28,19 +28,19 @@ This repository documents my daily Linux learning progress.
 -deleting file and folders
 
 -
-###Day07 -Working with txt file
+### Day07 -Working with txt file
 Commands 
 -cat ,less ,wc ,wc -lwc,du -s filename,head -n (no of lines) filename,tail -n (no of lines) filename
 Using txt file editors
 -nano ,vim
 
-###Day08 -Revision day
-###Day-09-Redirection-managing-data-streams
+### Day08 -Revision day
+### Day-09-Redirection-managing-data-streams
 stdin
 stdout
 stderr
 
-###Day-10-pipes-data-processing-through-command-chaining
+### Day-10-pipes-data-processing-through-command-chaining
 |:pipr
 some commonly used tool :
 tee
