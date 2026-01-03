@@ -51,3 +51,6 @@ tr
 rev
 cut
 sed
+### Day-11-environmet-variable
+commands:echo,export,unset etc.
+used for displaying ,making ,deleting and change the Existing progam. 
